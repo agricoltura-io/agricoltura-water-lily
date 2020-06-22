@@ -1,2 +1,2 @@
 # agricoltura-water-lily
-A complete front to back water quality management controller with depth monitoring 
+A complete front to back water quality management controller with depth monitoring and resevoir/irrigation control.
