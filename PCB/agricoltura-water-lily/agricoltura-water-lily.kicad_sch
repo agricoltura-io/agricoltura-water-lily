@@ -1,0 +1,708 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f7a6e4cc-d2ad-4fd1-9dd0-21a17dced7b5")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 119.38 110.49) (xy 96.52 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "038ad318-73f3-45a9-a5f5-8a2401ae6136")
+	)
+	(wire
+		(pts
+			(xy 96.52 130.81) (xy 119.38 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e19b041-29e9-4374-a6ad-993c6693a9cf")
+	)
+	(wire
+		(pts
+			(xy 96.52 125.73) (xy 119.38 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25752f25-a663-4dae-b5e6-1e44504bce10")
+	)
+	(wire
+		(pts
+			(xy 96.52 113.03) (xy 119.38 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27e79dac-5347-404d-b586-dade5b4fe389")
+	)
+	(wire
+		(pts
+			(xy 186.69 115.57) (xy 168.91 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f9e32e4-def6-44c5-b167-d1250cfa2dcc")
+	)
+	(wire
+		(pts
+			(xy 119.38 118.11) (xy 96.52 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "463a64f4-ef8d-4bd0-b983-bb0c1745d9da")
+	)
+	(wire
+		(pts
+			(xy 119.38 128.27) (xy 96.52 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d058256-7262-4a80-8c57-e0034850dfbb")
+	)
+	(wire
+		(pts
+			(xy 119.38 123.19) (xy 96.52 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50286f82-c568-4752-908a-255126e82029")
+	)
+	(wire
+		(pts
+			(xy 96.52 120.65) (xy 119.38 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c7fd557-7462-4cc8-bcb6-1a732c7dd73e")
+	)
+	(wire
+		(pts
+			(xy 96.52 107.95) (xy 119.38 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc007dcc-0151-42e5-84b4-7243fe2b441a")
+	)
+	(wire
+		(pts
+			(xy 168.91 118.11) (xy 186.69 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc196a14-2c90-431d-a3a7-6d580c228b15")
+	)
+	(wire
+		(pts
+			(xy 119.38 105.41) (xy 96.52 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0480f0a-c0f0-480c-84ca-8518e631a6ee")
+	)
+	(wire
+		(pts
+			(xy 186.69 113.03) (xy 168.91 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0fc978a-1c02-416d-81f4-111d5ce3e741")
+	)
+	(wire
+		(pts
+			(xy 119.38 102.87) (xy 96.52 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8e0aaf8-da85-4244-9243-f85adacf4aea")
+	)
+	(wire
+		(pts
+			(xy 186.69 110.49) (xy 168.91 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eab14e5c-cde0-4ce4-95ac-6facf658d91d")
+	)
+	(wire
+		(pts
+			(xy 96.52 100.33) (xy 119.38 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f33e3305-77ab-4154-b382-e59baf69745b")
+	)
+	(text "Agricoltura Water Lily 0.1a"
+		(exclude_from_sim no)
+		(at 107.95 34.29 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "e24df8be-ddae-4d3c-9a41-aeee6caa4b0f")
+	)
+	(sheet
+		(at 119.38 50.8)
+		(size 49.53 83.82)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005ee8264d")
+		(property "Sheetname" "STM32F446RET Controller"
+			(at 119.38 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32_MCU.kicad_sch"
+			(at 119.38 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RS485_UART_TX1" input
+			(at 119.38 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "db261f32-310a-428b-8d2e-2a652a86a6e0")
+		)
+		(pin "RS485_UART_RX1" input
+			(at 119.38 102.87 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2a6d807a-7dc8-457f-8d1e-ec743c091816")
+		)
+		(pin "RS485_UART_TX2" input
+			(at 119.38 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "23028629-ec14-4cfd-b606-71549e5601c9")
+		)
+		(pin "RS485_UART_RX2" input
+			(at 119.38 120.65 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "811548f8-1255-4314-9105-9ef51ebcf61a")
+		)
+		(pin "RS485_DE1" input
+			(at 119.38 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cb17c7b0-4c10-4135-b29f-9a13a3451d07")
+		)
+		(pin "RS485_DE2" input
+			(at 119.38 130.81 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "96789cef-de7b-4320-86ad-a056064b6dad")
+		)
+		(pin "RS485_TERM_EN1" input
+			(at 119.38 107.95 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "57d1968b-0af6-45d3-9b67-617cd9072ce5")
+		)
+		(pin "RS485_SL_RATE1" input
+			(at 119.38 105.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0b98d061-cc4a-4951-9b42-d91991bb1265")
+		)
+		(pin "RS485_RE1" input
+			(at 119.38 110.49 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f9293f38-83b3-4991-855d-b43b9dead94a")
+		)
+		(pin "RS485_SL_RATE2" input
+			(at 119.38 123.19 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1c78fd54-61c6-4e58-a25d-93116bab4cee")
+		)
+		(pin "RS485_RE2" input
+			(at 119.38 128.27 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0ebe4546-0282-43c7-a15f-265458ac963d")
+		)
+		(pin "RS485_TERM_EN2" input
+			(at 119.38 125.73 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4768355e-8f3d-4b1a-845f-bcd819818223")
+		)
+		(pin "IO_SCL" input
+			(at 168.91 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0cbb2fca-38f1-40e0-8a72-a85c97c22915")
+		)
+		(pin "IO_SDA" input
+			(at 168.91 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "921dfead-1825-47d5-9900-f2e006a6faf7")
+		)
+		(pin "IO_INT_N" input
+			(at 168.91 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fc5bd9b5-884b-4f08-b253-d38d77b715bf")
+		)
+		(pin "IO_RESET" input
+			(at 168.91 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6b146cf6-eb51-4e47-a983-596dd45a1368")
+		)
+		(instances
+			(project "agricoltura-water-lily"
+				(path "/f7a6e4cc-d2ad-4fd1-9dd0-21a17dced7b5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 146.05)
+		(size 54.61 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005ee8280d")
+		(property "Sheetname" "Power Supply"
+			(at 41.91 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 41.91 182.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "agricoltura-water-lily"
+				(path "/f7a6e4cc-d2ad-4fd1-9dd0-21a17dced7b5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 97.79)
+		(size 54.61 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005ee82896")
+		(property "Sheetname" "RS485 Interface"
+			(at 41.91 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS485_Interface.kicad_sch"
+			(at 41.91 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RS485_UART_TX1" input
+			(at 96.52 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "47a0d3ca-e104-442c-8b13-15624e692018")
+		)
+		(pin "RS485_UART_RX1" input
+			(at 96.52 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dd71a107-51b9-4a80-85e1-eb6f2d198f94")
+		)
+		(pin "RS485_UART_TX2" input
+			(at 96.52 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9931eb72-fea2-4309-940a-3b5c49266120")
+		)
+		(pin "RS485_UART_RX2" input
+			(at 96.52 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7bcded8f-32bf-449e-96f7-31aeb321d516")
+		)
+		(pin "RS485_DE2" input
+			(at 96.52 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f8fe65bc-1dd9-49f4-93a0-efbb7217b5c2")
+		)
+		(pin "RS485_DE1" input
+			(at 96.52 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a496195b-c241-454a-895f-6179c1ba4966")
+		)
+		(pin "RS485_SL_RATE2" input
+			(at 96.52 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ecadd4a8-ad9b-4f74-97f1-fdecc666b468")
+		)
+		(pin "RS485_SL_RATE1" input
+			(at 96.52 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ae0c11d3-fe8a-4666-a5c8-e58a5d383c20")
+		)
+		(pin "RS485_TERM_EN1" input
+			(at 96.52 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "53dcdc0d-acfe-4ee1-99b4-edbf2245324a")
+		)
+		(pin "RS485_RE1" input
+			(at 96.52 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "597e3a7d-97b2-458a-854c-1135ef60b9b8")
+		)
+		(pin "RS485_RE2" input
+			(at 96.52 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "21973416-2ef1-40d6-b687-f2d751ad200c")
+		)
+		(pin "RS485_TERM_EN2" input
+			(at 96.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4ccd8f5a-b16a-4918-b059-e73d8e1404d8")
+		)
+		(instances
+			(project "agricoltura-water-lily"
+				(path "/f7a6e4cc-d2ad-4fd1-9dd0-21a17dced7b5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 100.33)
+		(size 48.26 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005ef943a9")
+		(property "Sheetname" "5V IO Interfaces"
+			(at 186.69 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5V_Interfaces.kicad_sch"
+			(at 186.69 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IO_SCL" input
+			(at 186.69 110.49 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "39c93345-07de-43ad-9eb0-23316c08cbf3")
+		)
+		(pin "IO_SDA" input
+			(at 186.69 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "242e3eed-59f7-4949-a0bd-e7f5a63db6b2")
+		)
+		(pin "IO_INT_N" input
+			(at 186.69 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cb8f9077-2fc7-4fd0-ad61-ca624762ef2a")
+		)
+		(pin "IO_RESET" input
+			(at 186.69 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "64e448b8-7bfd-423f-92ea-38976ea3c80a")
+		)
+		(pin "DRV4" input
+			(at 234.95 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6f81144f-7a02-4edf-9e74-5ec8a14be6b1")
+		)
+		(pin "DRV3" input
+			(at 234.95 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6dc06cd4-fa17-46b4-bdba-dee01b144150")
+		)
+		(pin "DRV2" input
+			(at 234.95 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6f69ea4e-64f4-4e90-b8d3-868bd79eacee")
+		)
+		(pin "DRV1" input
+			(at 234.95 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b3674df6-cc42-4296-85d6-94e299b00652")
+		)
+		(pin "DRV5" input
+			(at 234.95 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c7d4c6af-d3e5-41d2-8cc6-5e845d97d788")
+		)
+		(instances
+			(project "agricoltura-water-lily"
+				(path "/f7a6e4cc-d2ad-4fd1-9dd0-21a17dced7b5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
